@@ -39,7 +39,7 @@ function App() {
 
   return (
       <div className="App">
-        <h1>Order Your Coffee</h1>
+        <h1>Bestelle deinen Kaffee</h1>
         <div className="coffee-options">
           <div className="selectionArea" id="firstSelector">
             <div>
@@ -50,7 +50,7 @@ function App() {
                     checked={withMilk}
                     onChange={() => setWithMilk(!withMilk)}
                 />
-                With Milk
+                Mit Milch
               </label>
             </div>
           </div>
@@ -63,7 +63,7 @@ function App() {
                     checked={withSugar}
                     onChange={() => setWithSugar(!withSugar)}
                 />
-                With Sugar
+                Mit Zucker
               </label>
             </div>
           </div>
