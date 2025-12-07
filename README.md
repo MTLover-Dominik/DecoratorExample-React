@@ -1,4 +1,4 @@
-# decorator-codeExample-react
+# DecoratorExample-React
 
 This project was created for a lesson in school, where the differemt patterns have been discussed.
 
